@@ -3,6 +3,9 @@
 ## User info
 Josh Heithoff - Jsheithoff
 
+## Contact Information
+Josh Heithoff | Des Moines, Iowa | University of Iowa | RTX | Jsheithoff@uiowa.edu
+
 ## Goals
 - Goal 1
 - Goal 2
