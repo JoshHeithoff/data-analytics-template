@@ -1,7 +1,23 @@
 ![Python badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## User info
+Josh Heithoff - Jsheithoff
 
+## Goals
+- Goal 1
+- Goal 2
+- Goal 3
 
+## Different Products
+Short descriptions of prior projects that can increase credibility
+
+## Github project timeline
+- project 1 (replace with name of project)
+- project 2
+- project 3
+
+## Relevancy of Projects
+Project name followed by what makes it important
 
 
 ### To do list
